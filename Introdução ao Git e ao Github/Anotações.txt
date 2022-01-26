@@ -1,0 +1,2 @@
+Link para download do Git: https://git-sce.com/downloads
+O gitbash é um terminal extendido para otimizar o uso do git
